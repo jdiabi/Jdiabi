@@ -28,7 +28,6 @@ Passionnée, curieuse et organisée, je souhaite apporter mes compétences à vo
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Frontend mentor](https://www.frontendmentor.io/profile/jdiabi)  
   
@@ -38,12 +37,6 @@ Passionnée, curieuse et organisée, je souhaite apporter mes compétences à vo
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
