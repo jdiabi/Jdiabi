@@ -51,5 +51,3 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=djuvelsk&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
