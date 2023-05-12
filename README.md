@@ -6,8 +6,8 @@
 ```yaml
 name: Julie Diabinho
 located_in: Nantes
-from: Nantes (France)
-job: frontend developer
+from: France
+job: Frontend developer
 education: ["Bac professionnel", "3W Academy", "Openclassrooms"]
 company: Keep searching
 past experiences: 
