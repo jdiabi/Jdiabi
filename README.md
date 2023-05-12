@@ -2,7 +2,26 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working : Frontend Mentor<br>🤝 I’m looking for help with : React or Vuejs<br>🌱 I’m currently learning : Angular<br>💬 Ask me about : anything :)<br>⚡ Fun fact : I prefer to work at night
+
+```yaml
+name: Julie Diabinho
+located_in: Nantes
+from: Nantes (France)
+job: frontend developer
+education: ["Bac professionnel", "3W Academy", "Openclassrooms"]
+company: Keep searching
+past experiences: 
+  - ["Développeuse front-end", "Wishibam", "Remote", "2023"]
+  - ["Intégratrice web", "A5SYS", "Nantes", "2023"]
+  - ["Développeuse front-end", "Niji", "Nantes", "2021"]
+  - ["Développeuse front-end", "Allociné, Webedia", "Levallois-Perret", "2016-2019"]
+  - ["Développeuse / intégratrice web", "Webedia", "Paris", "2014-2016"]
+
+fields_of_interests: ["UXdesign", "UI", "Accessibility"]
+currently_learning: ["React", "Vuejs", "Angulat"]
+will_learn: ["UXdesign"]
+hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
+```
 
 
 ## 🌐 Socials:
