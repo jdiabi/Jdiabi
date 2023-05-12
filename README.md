@@ -1,4 +1,4 @@
-## Hello World, ici Julie Diabinho  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&size=38&duration=3500&pause=20&color=0A242F&background=84368A&center=true&vCenter=true&width=500&height=100&lines=Hello+there%2C+I'm+Julie;I'm+a+frontend+developer)](https://git.io/typing-svg)
   
 
 <a href="https://github.com/jdiabi" target="_blank">
