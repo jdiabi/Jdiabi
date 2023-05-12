@@ -42,8 +42,6 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jdiabi&icon=5&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
 <br/>  
