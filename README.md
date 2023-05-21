@@ -23,7 +23,7 @@ will_learn: ["UXdesign"]
 hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ```
 
-# I love video games too :
+## I also play video games
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/b98843036babc447dbe7f7c31d5f1659" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
