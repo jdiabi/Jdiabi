@@ -12,13 +12,13 @@ education: ["Bac professionnel", "3W Academy", "Openclassrooms"]
 company: Keep searching
 past experiences: 
   - ["Développeuse front-end", "Wishibam", "Remote", "2023"]
-  - ["Intégratrice web", "A5SYS", "Nantes", "2023"]
+  - ["Intégratrice web", "A5SYS", "Nantes", "2022"]
   - ["Développeuse front-end", "Niji", "Nantes", "2021"]
   - ["Développeuse front-end", "Allociné, Webedia", "Levallois-Perret", "2016-2019"]
   - ["Développeuse / intégratrice web", "Webedia", "Paris", "2014-2016"]
 
 fields_of_interests: ["UXdesign", "UI", "Accessibility"]
-currently_learning: ["React", "Vuejs", "Angulat"]
+currently_learning: ["React", "Vuejs", "Angular"]
 will_learn: ["UXdesign"]
 hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ```
