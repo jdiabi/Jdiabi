@@ -30,7 +30,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 🎮 The Binding of Isaac: Rebirth    🕘 157 hrs 19 mins
 🎮 DayZ                             🕘 154 hrs 49 mins
 🎮 Euro Truck Simulator 2           🕘 139 hrs 4 mins
-🔫 Counter-Strike: Global Offensive 🕘 135 hrs 9 mins
+🔫 Counter-Strike: Global Offensive 🕘 135 hrs 24 mins
 🎮 Cookie Clicker                   🕘 123 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
