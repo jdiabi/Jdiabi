@@ -26,7 +26,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ## I also play video games
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/b98843036babc447dbe7f7c31d5f1659" target="_blank">🎮 Steam playtime leaderboard</a>
-test
+
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
