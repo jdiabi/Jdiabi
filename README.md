@@ -26,11 +26,13 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ## I also play video games
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/b98843036babc447dbe7f7c31d5f1659" target="_blank">🎮 Steam playtime leaderboard</a>
+```
 🎮 AdVenture Capitalist             🕘 1068 hrs 46 mins
 🦾 Cyberpunk 2077                   🕘 666 hrs 51 mins
 🎮 Dome Keeper                      🕘 303 hrs 47 mins
 🎮 The Binding of Isaac: Rebirth    🕘 157 hrs 19 mins
 🎮 DayZ                             🕘 154 hrs 49 mins
+ ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
