@@ -29,7 +29,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 ```text
 🎮 AdVenture Capitalist             🕘 1417 hrs 56 mins
 🦾 Cyberpunk 2077                   🕘 923 hrs 10 mins
-🎮 Dome Keeper                      🕘 483 hrs 59 mins
+🎮 Dome Keeper                      🕘 484 hrs 29 mins
 🎮 The Binding of Isaac: Rebirth    🕘 157 hrs 19 mins
 🎮 DayZ                             🕘 154 hrs 49 mins
 ```
