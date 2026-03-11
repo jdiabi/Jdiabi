@@ -30,7 +30,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 🎮 AdVenture Capitalist             🕘 1593 hrs 40 mins
 🦾 Cyberpunk 2077                   🕘 978 hrs 48 mins
 🎮 Dome Keeper                      🕘 501 hrs 55 mins
-🎮 Vacuum Warrior                   🕘 285 hrs 50 mins
+🎮 Vacuum Warrior                   🕘 286 hrs 50 mins
 🎮 The Binding of Isaac: Rebirth    🕘 157 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
