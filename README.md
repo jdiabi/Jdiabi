@@ -28,7 +28,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 #### <a href="https://gist.github.com/b98843036babc447dbe7f7c31d5f1659" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 AdVenture Capitalist             🕘 1645 hrs 14 mins
-🦾 Cyberpunk 2077                   🕘 1021 hrs 23 mins
+🦾 Cyberpunk 2077                   🕘 1022 hrs 49 mins
 🎮 Dome Keeper                      🕘 509 hrs 6 mins
 🎮 Vacuum Warrior                   🕘 304 hrs 23 mins
 🎮 The Binding of Isaac: Rebirth    🕘 157 hrs 19 mins
