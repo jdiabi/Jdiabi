@@ -27,7 +27,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/b98843036babc447dbe7f7c31d5f1659" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 AdVenture Capitalist             🕘 1651 hrs 30 mins
+🎮 AdVenture Capitalist             🕘 1652 hrs 13 mins
 🦾 Cyberpunk 2077                   🕘 1022 hrs 49 mins
 🎮 Dome Keeper                      🕘 510 hrs 47 mins
 🎮 Vacuum Warrior                   🕘 322 hrs 35 mins
