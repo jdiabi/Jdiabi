@@ -30,7 +30,7 @@ hobbies: ["Video games", "Roller derby", "Pixel art", "Concerts/festivals"]
 🎮 AdVenture Capitalist             🕘 1735 hrs 5 mins
 🦾 Cyberpunk 2077                   🕘 1022 hrs 49 mins
 🎮 Dome Keeper                      🕘 511 hrs 6 mins
-🎮 Vacuum Warrior                   🕘 353 hrs 19 mins
+🎮 Vacuum Warrior                   🕘 353 hrs 53 mins
 🎮 Graveyard Keeper                 🕘 284 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
